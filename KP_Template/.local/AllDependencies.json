@@ -3107,9 +3107,9 @@
     "restore": {
       "projectUniqueName": "KP_Template",
       "projectName": "KP_Template",
-      "projectPath": "D:\\UiPath\\KP_Template\\.local",
+      "projectPath": "D:\\UiPath\\UiPathRepository\\KP_Template\\.local",
       "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-      "outputPath": "D:\\UiPath\\KP_Template\\.local"
+      "outputPath": "D:\\UiPath\\UiPathRepository\\KP_Template\\.local"
     },
     "frameworks": {
       "net461": {
